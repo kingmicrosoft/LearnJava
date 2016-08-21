@@ -1,3 +1,5 @@
+package mock;
+
 import com.demo.learnjunit.Calculator;
 import org.junit.Assert;
 import org.junit.Before;
